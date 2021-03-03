@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "description": "a hello world app using Express.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisahabdu/express-wn21-1.git"
+  },
+  "author": "Anisah Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anisahabdu/express-wn21-1/issues"
+  },
+  "homepage": "https://github.com/anisahabdu/express-wn21-1#readme"
+}
